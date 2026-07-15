@@ -1,0 +1,14 @@
+sender
+receiver
+sender_dup
+receiver_dup
+__pycache__/
+autotune_out/
+.bak/
+.clockwatch.py
+playout_log.json
+relay_stats.json
+trials.jsonl
+rx.log
+*.log
+*:Zone.Identifier

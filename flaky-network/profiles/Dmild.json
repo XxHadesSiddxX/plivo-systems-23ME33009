@@ -1,0 +1,1 @@
+{"name":"D_mildburst","loss":0.02,"burst_loss":{"p_enter":0.03,"p_exit":0.5,"p_loss_in_burst":0.6},"delay_min_ms":20,"delay_max_ms":60,"dup":0.01}

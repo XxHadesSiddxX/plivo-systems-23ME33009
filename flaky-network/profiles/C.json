@@ -1,0 +1,1 @@
+{"name":"C_nasty","loss":0.04,"burst_loss":{"p_enter":0.05,"p_exit":0.3,"p_loss_in_burst":0.8},"delay_min_ms":20,"delay_max_ms":80,"spike":{"prob":0.02,"extra_ms":60},"dup":0.01}
